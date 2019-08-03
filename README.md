@@ -21,8 +21,7 @@ Install
 =======
 
 ```
-$ wget https://github.com/tokland/youtube-upload/archive/master.zip
-$ unzip master.zip
+$ git clone https://github.com/thpryrchn/youtube-upload.git
 $ cd youtube-upload-master
 $ sudo python setup.py install
 ```
